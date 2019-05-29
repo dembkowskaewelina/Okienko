@@ -5,3 +5,6 @@ elo elo 3 2 0 ! :D
 
 
 Działamy !!!:D
+
+
+I do domu
